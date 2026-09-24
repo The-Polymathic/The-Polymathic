@@ -1,0 +1,10 @@
+{
+  "name":"The Polymathic",
+  "short_name":"Polymathic",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#fffdf4",
+  "theme_color":"#187a52",
+  "description":"Student writing and discussion platform for ages 14–21.",
+  "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
